@@ -1,2 +1,3 @@
 # node-curd-rest-api
-rest api for curd operation on mongo db
+Rest api for curd operation on mongo db
+Done basic curd operation
